@@ -1,0 +1,49 @@
+.col-md-3{
+	    border:5px solid whitesmoke;
+	    text-align:right;
+	    padding:19px;
+		}
+.fa-pencil{
+	    font-style:30px;
+	    color:skyblue;
+}
+.fa-message{
+	    font-style:30px;
+	    color:yellow;
+}
+.fa-chart-line{
+	    font-style:30px;
+	    color:green;
+}
+.fa-location-dot{
+	    font-style:30px;
+	    color:red;
+}
+.fa-rocket{
+	    font-style:30px;
+	    color:red;
+}
+.fa-user{
+	    font-style:30px;
+	    color:green;
+}
+.fa-chart-pie{
+	    font-style:30px;
+	    color:yellow;
+}
+.fa-facebook{
+	    font-style:30px;
+	    color:skyblue;
+}
+.fa-message{
+	   font-style:30px;
+	   color:yellow;
+}
+.fa-whatsapp{
+	   font-style:30px;
+	   color:green;
+}
+.fa-instagram{
+	    font-style:30px;
+	    color:red;
+}
